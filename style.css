@@ -7,3 +7,7 @@
     --roxo-medio:#4F3881;
     --roxo-brilhoso:#6B5EFF;
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+   }
