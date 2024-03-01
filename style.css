@@ -6,6 +6,7 @@
     --roxo-forte:#5F1B95;
     --roxo-medio:#4F3881;
     --roxo-brilhoso:#6B5EFF;
+    --cor-hifen:#FF3838; 
 }
 
 body{
@@ -27,4 +28,10 @@ body{
     width: 100%;
     font-size: 32px;
     color: var(--cor-de-texto);
+   }
+   .titulo-principal{
+    color: var(--cor-hifen);
+   }
+   .botao{
+    font-family: 'Chakra Petch, sans serif';
    }
